@@ -1,0 +1,62 @@
+body main {
+    display: block;
+    background-color: maroon;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    padding: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 5px;
+    border-radius: 5px;
+    font-family: 'Poppins';
+}
+
+h1 {
+    font-size: 100pt;
+    color: #fff;
+    font-size: 100pt;
+    color: white;
+}
+
+p {
+    color: whitesmoke;
+}
+
+.center {
+    background-color: rgb(126, 21, 21);
+    background-image: url(./Image/Keyboard\ Keys.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding: 5pt;
+    background-blend-mode: overlay;
+}
+
+#img-caption {
+    color: white;
+    font-size: 20pt;
+}
+
+ul li span {
+    font-weight: bolder;
+}
+
+#headings {
+    color: white;
+    font-size: 20pt;
+}
+
+#list {
+    color: white;
+}
+
+li {
+    margin: 16px 0;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
